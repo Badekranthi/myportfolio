@@ -1,0 +1,80 @@
+/* General Styles for the Home Section */
+.home-section {
+    text-align: center;
+    padding: 40px 20px;
+    background: #bfe1e6; /* Light Teal */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  /* Profile Picture Styles */
+  .profile-pic {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+    text-decoration:none;
+    border: 3px solid #d0dae1; /* Blue */
+  }
+  
+  /* Heading Styles */
+  .home-section h2 {
+    color: #007acc; /* Blue */
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  /* Paragraph Styles */
+  .home-section p {
+    color: #333;
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
+  .home-section p span { 
+    display: block; 
+    font-size: 1.5em;
+     font-weight: bold;
+      color: #009688; 
+      margin-top: 10px; 
+    }
+
+/* Social Media Links */ 
+.social-links { margin-top: 20px;text-decoration: none; } 
+.social-links a { color: #333; margin: 0 10px; font-size: 1.5em; transition: color 0.3s ease; } 
+.social-links a:hover { color: #007acc; }  
+
+
+
+/*About.css*/
+#about{
+  background-color: #b2f0ac;
+}
+
+/*Projects.css*/
+#projects{
+  background-color: #b2f0ac;
+
+}
+#contact{
+  background-color: #b2f0ac;
+
+}
+
+.footer{
+  background-color: #b2f0ac;
+  text-align: center;
+  padding: 0%;
+
+}
+
+#skills{
+  background-color: #b2f0ac;
+
+}
+
+#goals{
+  background-color: #b2f0ac;
+
+}
